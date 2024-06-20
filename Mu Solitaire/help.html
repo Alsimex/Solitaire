@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Mu Solitaire - Help</title>
+	<link rel="stylesheet" href="pageStyle.css">
+	<link rel="stylesheet" href="cards.css">
+	<script src="jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+<div id="preload"></div>
+<div class="topbar">
+	<a href="klondike.html">Play</a>
+	<a href="#leaderboard">Leaderboard</a>
+	<a class="active" href="help.html">Help</a>
+	<a href="#about">About</a>	
+</div>
+<h1>
+How to Play
+</h1>
+<p>Click a card to select it, click another card to move it.</p>
+<p>Cards stack in alternating colors with descending values. Only Kings can be placed on empty spaces.</p>
+
+<table class="board">
+	<tr class="row1">
+		<td class="boardPile1 card hK"></td>
+	</tr>
+	<tr class="row2">
+		<td class="boardPile1 card sQ"></td>
+	</tr>
+	<tr class="row3">
+		<td class="boardPile1 card dJ"></td>
+	</tr>
+	<tr class="row4">
+		<td class="boardPile1 card s10"></td>
+	</tr>
+	<tr class="row5">
+		<td class="boardPile1 card d9"></td>
+	</tr>
+	<tr class="row6">
+		<td class="boardPile1 card c8"></td>
+	</tr>
+	<tr class="row7">
+		<td class="boardPile1 card"></td>
+	</tr>
+	<tr class="row8">
+		<td class="boardPile1 card"></td>
+	</tr>
+</table>
+<br><br><br>
+<p>
+To win, stack cards of the same suit in the end piles from Ace to King. The game ends when all piles are full.
+</p>
+
+<table class="topRow">
+	<tr>
+		<td class="finalPile1 card"></td>
+		<td class="finalPile2 card hA"></td>
+		<td class="finalPile3 card d4"></td>
+		<td class="finalPile4 card cK"></td>
+	</tr>
+</table>
+
+<h1>Scoring</h1>
+<p>Moving a card to an end pile rewards 10 points. Moving a card from an end pile to the board loses 15 points.</p>
+<table class="topRow">
+	<tr>
+		<td class="finalPile1 card"></td>
+	</tr>
+</table>
+<p>Revealing a card on the board rewards 5 points.</p>
+<a class="card back"> </a>
+<br><br><br><br><br><br>
+<p>Moving a card from the deck to a board pile rewards 5 points. Each rotation through the deck costs 100 points.</p>
+<table class="topRow">
+	<tr>
+		<td class="deck card back"></td>
+		<td class="deckPile card "></td>
+	</tr>
+</table>
+<table class="board">
+	<tr class="row1">
+		<td class="boardPile1 card"></td>
+		<td class="boardPile2 card"></td>
+		<td class="boardPile3 card"></td>
+		<td class="boardPile4 card"></td>
+		<td class="boardPile5 card"></td>
+		<td class="boardPile6 card"></td>
+		<td class="boardPile7 card"></td>
+	</tr>
+</table>
+<br><br><br><br><br><br>
+<p>Note that the score will never go below zero.</p>
+
+
+</body>
+</html>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.3016672mm"
+   height="7.4183331mm"
+   viewBox="0 0 5.3016672 7.4183331"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch55">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop55" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer6"
+     transform="translate(-30.422086,-22.749167)">
+    <g
+       id="g33">
+      <path
+         style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-miterlimit:15;stroke-dasharray:none;stroke-opacity:1"
+         d="m 30.427086,23.389167 c 0,-0.423333 0.211667,-0.635 0.636654,-0.635 h 4.051432 c 0.391916,0 0.603581,0.211667 0.603581,0.635 V 29.5275 c 0,0.423334 -0.211668,0.635 -0.635,0.635 h -4.021667 c -0.423333,0 -0.635,-0.211668 -0.635,-0.635 z"
+         id="path5732-98" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.494304px;line-height:0px;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.00350295;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="31.18714"
+         y="23.233835"
+         id="text5747-1-8-6-2"
+         transform="scale(0.986662,1.0135183)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.494304px;line-height:0px;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';fill:#ff0000;stroke-width:0.00350295"
+           id="tspan5748-2-1-2-77"
+           x="31.18714"
+           y="23.233835">6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.49454px;line-height:0px;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.00350459;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="-35.85289"
+         y="-28.977032"
+         id="text5747-1-8-6-7-76"
+         transform="scale(-0.986662,-1.0135183)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.49454px;line-height:0px;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';fill:#ff0000;stroke-width:0.00350459"
+           id="tspan5748-2-1-2-4-34"
+           x="-35.85289"
+           y="-28.977032">6</tspan></text>
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 32.014586,23.759584 c -0.105833,0.264584 -0.211667,0.47625 -0.370417,0.635 0.15875,0.15875 0.264584,0.370417 0.370417,0.635 0.105833,-0.264583 0.211667,-0.47625 0.370417,-0.635 -0.15875,-0.15875 -0.264584,-0.370416 -0.370417,-0.635 z"
+         id="path5747-5-68" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 34.131253,23.759584 c -0.105833,0.264584 -0.211667,0.47625 -0.370417,0.635 0.15875,0.15875 0.264584,0.370417 0.370417,0.635 0.105833,-0.264583 0.211667,-0.47625 0.370417,-0.635 -0.15875,-0.15875 -0.264584,-0.370416 -0.370417,-0.635 z"
+         id="path5747-5-8-5" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 32.014586,27.887084 c -0.105833,0.264584 -0.211667,0.47625 -0.370417,0.635 0.15875,0.15875 0.264584,0.370417 0.370417,0.635 0.105833,-0.264583 0.211667,-0.47625 0.370417,-0.635 -0.15875,-0.15875 -0.264584,-0.370416 -0.370417,-0.635 z"
+         id="path5747-5-6-54" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 32.014586,25.823334 c -0.105833,0.264584 -0.211667,0.47625 -0.370417,0.635 0.15875,0.15875 0.264584,0.370417 0.370417,0.635 0.105833,-0.264583 0.211667,-0.47625 0.370417,-0.635 -0.15875,-0.15875 -0.264584,-0.370416 -0.370417,-0.635 z"
+         id="path5747-5-6-1-0" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 34.131253,25.823334 c -0.105833,0.264584 -0.211667,0.47625 -0.370417,0.635 0.15875,0.15875 0.264584,0.370417 0.370417,0.635 0.105833,-0.264583 0.211667,-0.47625 0.370417,-0.635 -0.15875,-0.15875 -0.264584,-0.370416 -0.370417,-0.635 z"
+         id="path5747-5-6-1-9-2" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 34.131253,27.887084 c -0.105833,0.264584 -0.211667,0.47625 -0.370417,0.635 0.15875,0.15875 0.264584,0.370417 0.370417,0.635 0.105833,-0.264583 0.211667,-0.47625 0.370417,-0.635 -0.15875,-0.15875 -0.264584,-0.370416 -0.370417,-0.635 z"
+         id="path5747-5-6-6-5" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.00357143;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 30.929794,23.65375 c -0.0378,0.09449 -0.07559,0.17009 -0.132291,0.226786 0.0567,0.0567 0.09449,0.132292 0.132291,0.226786 0.0378,-0.09449 0.0756,-0.17009 0.132292,-0.226786 -0.0567,-0.0567 -0.09449,-0.132291 -0.132292,-0.226786 z"
+         id="path5747-5-3-5" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.00357143;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 35.216045,28.809345 c -0.0378,0.0945 -0.07559,0.17009 -0.132292,0.226786 0.0567,0.0567 0.09449,0.132292 0.132292,0.226786 0.0378,-0.09449 0.07559,-0.170089 0.132291,-0.226786 -0.0567,-0.0567 -0.09449,-0.132291 -0.132291,-0.226786 z"
+         id="path5747-5-3-7-7" />
+    </g>
+  </g>
+</svg>
